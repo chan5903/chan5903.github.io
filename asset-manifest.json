@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7b7ea99f.css",
+    "main.js": "/static/js/main.1cc4f421.js",
+    "static/js/787.23170c61.chunk.js": "/static/js/787.23170c61.chunk.js",
+    "static/media/The_Revenant_2016_Leonardo_DiCaprio_HD_Wallpaper_1366x768.jpg": "/static/media/The_Revenant_2016_Leonardo_DiCaprio_HD_Wallpaper_1366x768.0a670ba05950d00d58f4.jpg",
+    "static/media/Fast_and_the_Furious_Five_16_1366x768.jpg": "/static/media/Fast_and_the_Furious_Five_16_1366x768.ce6fa7fb1179cc2a3093.jpg",
+    "static/media/Django_Unchained_Movie_HD_Desktop_Wallpaper_01_1366x768.jpg": "/static/media/Django_Unchained_Movie_HD_Desktop_Wallpaper_01_1366x768.1af9e3d75e81c220688a.jpg",
+    "static/media/shoes.jpg": "/static/media/shoes.88772d3da09a0bb8c039.jpg",
+    "static/media/The_Bourne_Legacy_Movie_HD_Desktop_Wallpaper_1366x768.jpg": "/static/media/The_Bourne_Legacy_Movie_HD_Desktop_Wallpaper_1366x768.3b253ccf057b5a90b00f.jpg",
+    "static/media/Something_Borrowed_Movie_Wallpapers_04_1366x768.jpg": "/static/media/Something_Borrowed_Movie_Wallpapers_04_1366x768.f8e3b02925593515a1c6.jpg",
+    "static/media/The_Amazing_Spider_Man_Movie_Wallpaper_medium.jpg": "/static/media/The_Amazing_Spider_Man_Movie_Wallpaper_medium.4cefd1feb90d3f2fccfa.jpg",
+    "static/media/Spartacus-Vengeance_HD_American_TV_Desktop_Wallpaper_medium.jpg": "/static/media/Spartacus-Vengeance_HD_American_TV_Desktop_Wallpaper_medium.e3c55e069495b1e7fed1.jpg",
+    "static/media/The_Secret_Circle_TV_series_HD_Wallpapers_03_medium.jpg": "/static/media/The_Secret_Circle_TV_series_HD_Wallpapers_03_medium.54e3ddae286bd646a4ac.jpg",
+    "static/media/Something_Borrowed_Movie_Wallpapers_01_medium.jpg": "/static/media/Something_Borrowed_Movie_Wallpapers_01_medium.652d042ff31090f53251.jpg",
+    "static/media/Savages_Movie_HD_Desktop_Wallpaper_medium.jpg": "/static/media/Savages_Movie_HD_Desktop_Wallpaper_medium.657431e379221d69f9ec.jpg",
+    "static/media/Gossip_Girl-American_TV_series_Wallpaper_medium.jpg": "/static/media/Gossip_Girl-American_TV_series_Wallpaper_medium.c12cfd57663cb5369f5b.jpg",
+    "static/media/2013_Iron_Man_3_Movie_HD_Desktop_Wallpaper_03_medium.jpg": "/static/media/2013_Iron_Man_3_Movie_HD_Desktop_Wallpaper_03_medium.5c74306df3143782601b.jpg",
+    "index.html": "/index.html",
+    "main.7b7ea99f.css.map": "/static/css/main.7b7ea99f.css.map",
+    "main.1cc4f421.js.map": "/static/js/main.1cc4f421.js.map",
+    "787.23170c61.chunk.js.map": "/static/js/787.23170c61.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b7ea99f.css",
+    "static/js/main.1cc4f421.js"
+  ]
+}
